@@ -116,8 +116,8 @@ I am a **Full-Stack Software Engineer & Systems Architect** specializing in prod
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=osama1404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Osama's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osama1404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osama1404&theme=tokyonight" alt="Osama's GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osama1404&theme=tokyonight" alt="Top Languages by Repository" />
 </div>
 
 ---

@@ -1,6 +1,8 @@
 # Osama Alsayed
 ### Full-Stack Software Engineer & Systems Architect
-**Dubai / Abu Dhabi, United Arab Emirates** • [LinkedIn](https://www.linkedin.com/in/osamaalsayed) • [Email](mailto:osama.omar.alsayed@gmail.com) • [GitHub](https://github.com/osama1404)
+**Dubai / Abu Dhabi, United Arab Emirates** • [LinkedIn](www.linkedin.com/in/osama-alsayed-1605bb410
+
+) • [Email](mailto:osama.omar.alsayed@gmail.com) • [GitHub](https://github.com/osama1404)
 
 ---
 
